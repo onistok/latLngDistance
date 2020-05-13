@@ -1,5 +1,5 @@
-echo location_table_id("41.009458","28.978976")."<br>";
-##
+echo location_table_id("41.009458","28.978976");
+Çıktı: 441 - 243
 
 Bu fonksiyondan dönen cevap bize lat ve lng değerinin dünya üzerinden 100 er metrelik karelere bölünerek lat_bin ve lng_bin değerlerini verir.
 
